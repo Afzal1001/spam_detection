@@ -1,16 +1,16 @@
-📩 SMS Spam Detection System
+•	📩 SMS Spam Detection System
 
 This project focuses on building an NLP-based SMS spam classifier using Python. Multiple machine learning models were trained and evaluated to classify SMS messages as spam or ham, achieving a best accuracy of 97.5% through comparative model analysis.
 
 The workflow includes text preprocessing (tokenization, stopword removal, stemming), feature extraction using techniques such as Bag of Words and TF-IDF, and model training using popular classification algorithms. Performance was evaluated using standard metrics to identify the most effective model.
 
-🔧 Tech Stack
+🔧 Tech Stack -
 Python,
 Jupyter Notebook,
 NLTK,
 Scikit-learn,
 Pandas,
-NumPy
+NumPy.
 
 🚀 Key Features
 
